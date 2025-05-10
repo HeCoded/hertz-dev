@@ -1,4 +1,4 @@
-torch==2.5.1
+torch==2.6.0
 torchaudio==2.5.1
 einops==0.8.0
 tqdm==4.66.6
